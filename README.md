@@ -1,1 +1,1 @@
-![Cover](https://github.com/ashikoo/ashikoo/assets/background.png)
+![Cover](https://github.com/ashikoo/ashikoo/blob/main/assets/background.jpg)
