@@ -7,10 +7,6 @@
 - 👯 Je cherche des développeurs pour faire des bon projets
 - ⚡ Fun fact: j'aime les chats xd
 
-### 🎧 Spotify Playing :
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ashiko Spotify Playing" width="350" />](https://open.spotify.com/user/ns0gjty1k35lkylhny3xo5nb9?si=jUPYQaoyQ2Gpe_bYkBR5Tw)
-
 ### 🌠 Mes résaux :
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
