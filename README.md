@@ -6,7 +6,6 @@
 
 - 🌱 J'apprends actuellement le JS
 - 👯 Je cherche des développeurs pour faire des bon projets
-- ⚡ Fun fact : j'aime les chats & les chiens xd
 
 ### 🌠 Mes résaux :
 
