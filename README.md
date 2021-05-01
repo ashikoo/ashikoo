@@ -6,7 +6,7 @@
 
 - 🌱 J'apprends actuellement le JS
 - 👯 Je cherche des développeurs pour faire des bon projets
-- 🚀 https://lightheberg.fr/
+- 🚀 https://discord.gg/S7WzD4XnZn
 
 ### 🌠 Mes résaux :
 
