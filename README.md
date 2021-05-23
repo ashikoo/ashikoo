@@ -4,9 +4,7 @@
 
 <a href="https://www.buymeacoffee.com/ayzun"><img src="https://img.buymeacoffee.com/button-api/?text=Soutienmoi !&emoji=&slug=ayzun&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-- 🌱 J'apprends actuellement le JS
-- 👯 Je cherche des développeurs pour faire des bon projets
-- 🚀 https://discord.gg/S7WzD4XnZn
+- 🌵 https://discord.gg/nFNgTXrreh
 
 ### 🌠 Mes résaux :
 
@@ -19,4 +17,3 @@
 ---
 
 [twitter]: https://twitter.com/ayzuntv
-[youtube]: https://www.youtube.com/channel/UCfYzqSOcEMfQGVEn4maPgdw?view_as=subscriber
